@@ -1,0 +1,57 @@
+@font-face {
+        
+    font-family: Romantic;
+    src: url("Romantic.otf");
+}
+body{
+background-image: url(Textura.jpg);
+}
+p{
+    font-family: 'Courier New', Courier, monospace;
+}
+#carta{
+    background-color: aliceblue;
+    border-width: thin;
+    margin-left: 230px;
+    margin-right: 230px;
+}
+#interna{
+    margin: 20px;
+}
+
+#titulo{
+    color: #FF9BD2;
+    text-align: center;
+    font-family: Romantic;
+    
+    font-size: 50px;
+    
+    
+}
+div{
+    color:#D63484
+}
+.cajaFotos{
+    display: flex;
+    align-items: flex-end;
+    background-color: #B4D4FF;
+    
+}
+.foto{
+    
+    margin: 10px;
+    margin-left: 22px;
+}
+.fotoi{
+    border: 2px solid #DC84F3;
+}
+video{
+    border: 5px solid #DC84F3 ;
+}
+#videoCumple{
+    text-align: center;
+}
+hr{
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
